@@ -1,6 +1,7 @@
 # -YB-token-contract
 YieldBasis token contracts
 YB:         0x01791F726B4103694969820be083196cC7c045fF
+Etherscan: https://etherscan.io/token/0x01791f726b4103694969820be083196cc7c045ff
 veYB:       0x8235c179E9e84688FBd8B12295EfC26834dAC211
 GC:         0x1Be14811A3a06F6aF4fA64310a636e1Df04c1c21
 CE:         0x60043a545E22424E73A2dEbb98f8cd4361fE3DA0
